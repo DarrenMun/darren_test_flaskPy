@@ -1,0 +1,4 @@
+APP_CONFIG=config.py
+#APP_MODULE
+#APP_FILE = wsgi.py
+#APP_SCRIPT
