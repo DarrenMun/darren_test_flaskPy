@@ -22,7 +22,7 @@ Flask-Testing
 itsdangerous 
 Jinja2 
 MarkupSafe
-pip 
-setuptools
+pip == 9.0.3
+setuptools == 40.8.0
 Werkzeug
-wheel 
+wheel
