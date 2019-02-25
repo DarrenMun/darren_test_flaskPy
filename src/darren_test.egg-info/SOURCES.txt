@@ -10,6 +10,7 @@ setup.py
 .s2i/environment
 dist/darren_test-0.0.post0.dev1+g6fc6d67-py2.py3-none-any.whl
 dist/darren_test-0.0.post0.dev4+g1945996-py2.py3-none-any.whl
+dist/darren_test-0.0.post0.dev5+g95931dd.dirty-py2.py3-none-any.whl
 docs/Makefile
 docs/authors.rst
 docs/changelog.rst
